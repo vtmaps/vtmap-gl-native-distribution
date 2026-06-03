@@ -9,6 +9,7 @@
 import UIKit
 import PlaygroundSupport
 import MapLibre
+import VTMap
 
 // Create a map set its dimensions
 let width: CGFloat = 640
